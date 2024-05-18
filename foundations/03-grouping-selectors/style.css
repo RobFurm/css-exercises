@@ -1,0 +1,14 @@
+.black,
+.yellow {
+    font-size: 40px;
+}
+
+.black {
+    font-weight: 700;
+    color: white;
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
